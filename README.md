@@ -1,10 +1,11 @@
-# argo
+# Argo Python Client
 
-This Argo Python client includes missing objects (WorkflowStatus, NodeStatus)
+This Argo Python client includes missing objects (WorkflowStatus, NodeStatus).
 
 ## Example 
 
-The code is based on the Go example (https://github.com/argoproj/argo/blob/master/docs/example-golang/main.go)
+The code is based on the Go example (https://github.com/argoproj/argo/blob/master/docs/example-golang/main.go).
+
 It assumes that you're inside the Kubernetes cluster and thus is using the incluster configuration.
 
 ```python

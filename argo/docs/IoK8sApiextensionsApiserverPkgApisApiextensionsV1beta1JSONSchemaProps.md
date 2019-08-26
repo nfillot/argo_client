@@ -1,0 +1,45 @@
+# IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**ref** | **str** |  | [optional] 
+**schema** | **str** |  | [optional] 
+**additional_items** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrBool**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrBool.md) |  | [optional] 
+**additional_properties** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrBool**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrBool.md) |  | [optional] 
+**all_of** | [**list[IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps]**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**any_of** | [**list[IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps]**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**default** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON.md) |  | [optional] 
+**definitions** | [**dict(str, IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps)**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**dependencies** | [**dict(str, IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrStringArray)**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrStringArray.md) |  | [optional] 
+**description** | **str** |  | [optional] 
+**enum** | [**list[IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON]**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON.md) |  | [optional] 
+**example** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSON.md) |  | [optional] 
+**exclusive_maximum** | **bool** |  | [optional] 
+**exclusive_minimum** | **bool** |  | [optional] 
+**external_docs** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1ExternalDocumentation**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1ExternalDocumentation.md) |  | [optional] 
+**format** | **str** |  | [optional] 
+**id** | **str** |  | [optional] 
+**items** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrArray**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaPropsOrArray.md) |  | [optional] 
+**max_items** | **int** |  | [optional] 
+**max_length** | **int** |  | [optional] 
+**max_properties** | **int** |  | [optional] 
+**maximum** | **float** |  | [optional] 
+**min_items** | **int** |  | [optional] 
+**min_length** | **int** |  | [optional] 
+**min_properties** | **int** |  | [optional] 
+**minimum** | **float** |  | [optional] 
+**multiple_of** | **float** |  | [optional] 
+**_not** | [**IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**nullable** | **bool** |  | [optional] 
+**one_of** | [**list[IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps]**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**pattern** | **str** |  | [optional] 
+**pattern_properties** | [**dict(str, IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps)**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**properties** | [**dict(str, IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps)**](IoK8sApiextensionsApiserverPkgApisApiextensionsV1beta1JSONSchemaProps.md) |  | [optional] 
+**required** | **list[str]** |  | [optional] 
+**title** | **str** |  | [optional] 
+**type** | **str** |  | [optional] 
+**unique_items** | **bool** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
